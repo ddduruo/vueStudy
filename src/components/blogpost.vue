@@ -6,6 +6,7 @@
   </div>
 </template>
 <script>
+// /21321332
 export default {
   name:"blockpost",
   props:['post'],
