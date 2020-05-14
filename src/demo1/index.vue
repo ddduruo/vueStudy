@@ -1,6 +1,6 @@
 <template>
   <div>
-    吧啦啦啦啦啦啦啦
+    吧啦啦啦啦啦啦啦ffgg
     <div>
       {{msg}}
     </div>
